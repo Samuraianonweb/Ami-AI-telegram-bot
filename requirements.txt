@@ -1,0 +1,2 @@
+gradio_client==0.16.1
+python-telegram-bot==13.13
