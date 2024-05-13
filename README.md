@@ -1,2 +1,22 @@
 # Ami-AI-telegram-bot
-Ami Bot
+AMi bot Telegram
+
+git clone
+
+```
+pip install -r requirements.txt
+```
+
+Edit r.py 
+
+python r.py
+
+Command in Bot 
+#text answer
+
+!ami {Promt}
+
+#voice answer
+!amivoice {Promt}
+
+
